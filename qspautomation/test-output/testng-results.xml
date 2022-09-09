@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="39936" started-at="2022-08-30T09:18:53 IST" finished-at="2022-08-30T09:19:33 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="39936" started-at="2022-08-30T09:18:53 IST" finished-at="2022-08-30T09:19:33 IST">
+      <class name="testngpack.DataproviderCode">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testngpack.DataproviderCode@76f2b07d]" name="setUp" is-config="true" duration-ms="12374" started-at="2022-08-30T09:18:53 IST" finished-at="2022-08-30T09:19:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testActiTimeValidLogin(java.lang.String,java.lang.String)[pri:0, instance:testngpack.DataproviderCode@76f2b07d]" name="testActiTimeValidLogin" duration-ms="990" started-at="2022-08-30T09:19:06 IST" data-provider="dataprovider1" finished-at="2022-08-30T09:19:07 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[manager123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testActiTimeValidLogin -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testngpack.DataproviderCode@76f2b07d]" name="afterMethod" is-config="true" duration-ms="1151" started-at="2022-08-30T09:19:07 IST" finished-at="2022-08-30T09:19:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testngpack.DataproviderCode@76f2b07d]" name="setUp" is-config="true" duration-ms="5791" started-at="2022-08-30T09:19:08 IST" finished-at="2022-08-30T09:19:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testActiTimeValidLogin(java.lang.String,java.lang.String)[pri:0, instance:testngpack.DataproviderCode@76f2b07d]" name="testActiTimeValidLogin" duration-ms="547" started-at="2022-08-30T09:19:14 IST" data-provider="dataprovider1" finished-at="2022-08-30T09:19:14 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[manager]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[manager123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testActiTimeValidLogin -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testngpack.DataproviderCode@76f2b07d]" name="afterMethod" is-config="true" duration-ms="1240" started-at="2022-08-30T09:19:14 IST" finished-at="2022-08-30T09:19:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testngpack.DataproviderCode@76f2b07d]" name="setUp" is-config="true" duration-ms="5185" started-at="2022-08-30T09:19:16 IST" finished-at="2022-08-30T09:19:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testActiTimeValidLogin(java.lang.String,java.lang.String)[pri:0, instance:testngpack.DataproviderCode@76f2b07d]" name="testActiTimeValidLogin" duration-ms="427" started-at="2022-08-30T09:19:21 IST" data-provider="dataprovider1" finished-at="2022-08-30T09:19:21 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ad13]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[manager123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testActiTimeValidLogin -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testngpack.DataproviderCode@76f2b07d]" name="afterMethod" is-config="true" duration-ms="919" started-at="2022-08-30T09:19:21 IST" finished-at="2022-08-30T09:19:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testngpack.DataproviderCode@76f2b07d]" name="setUp" is-config="true" duration-ms="4534" started-at="2022-08-30T09:19:22 IST" finished-at="2022-08-30T09:19:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testActiTimeValidLogin(java.lang.String,java.lang.String)[pri:0, instance:testngpack.DataproviderCode@76f2b07d]" name="testActiTimeValidLogin" duration-ms="304" started-at="2022-08-30T09:19:27 IST" data-provider="dataprovider1" finished-at="2022-08-30T09:19:27 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin#123]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[manager123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testActiTimeValidLogin -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testngpack.DataproviderCode@76f2b07d]" name="afterMethod" is-config="true" duration-ms="789" started-at="2022-08-30T09:19:27 IST" finished-at="2022-08-30T09:19:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testngpack.DataproviderCode@76f2b07d]" name="setUp" is-config="true" duration-ms="4441" started-at="2022-08-30T09:19:28 IST" finished-at="2022-08-30T09:19:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testActiTimeValidLogin(java.lang.String,java.lang.String)[pri:0, instance:testngpack.DataproviderCode@76f2b07d]" name="testActiTimeValidLogin" duration-ms="341" started-at="2022-08-30T09:19:32 IST" data-provider="dataprovider1" finished-at="2022-08-30T09:19:33 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[manager1@133]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[manager123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testActiTimeValidLogin -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testngpack.DataproviderCode@76f2b07d]" name="afterMethod" is-config="true" duration-ms="781" started-at="2022-08-30T09:19:33 IST" finished-at="2022-08-30T09:19:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- testngpack.DataproviderCode -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
