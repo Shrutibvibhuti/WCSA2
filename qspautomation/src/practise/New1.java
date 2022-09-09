@@ -3,7 +3,7 @@ package practise;
 public class New1 {
 
 	public static void main(String[] args) {
-		System.out.println("my name is shruti");
+		System.out.println(" name is shruti");
 
 	}
 
